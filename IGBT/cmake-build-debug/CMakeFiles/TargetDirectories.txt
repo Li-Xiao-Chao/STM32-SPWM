@@ -1,0 +1,3 @@
+C:/Users/Yang/Desktop/Project/STM32/diansai/IGBT/cmake-build-debug/CMakeFiles/IGBT.elf.dir
+C:/Users/Yang/Desktop/Project/STM32/diansai/IGBT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yang/Desktop/Project/STM32/diansai/IGBT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
